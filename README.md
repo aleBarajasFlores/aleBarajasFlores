@@ -1,16 +1,16 @@
-## Hi there 👋
+# ¡Hola! Soy Ale ◝(ᵔᗜᵔ)◜
 
-<!--
-**aleBarajasFlores/aleBarajasFlores** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante de Ingeniería en Computación en la Facultad de Ingeniería de la UNAM. Me apasiona la resolución de algoritmos complejos, la ciberseguridad y buscar formas de hacer el código más seguro y eficiente.
 
-Here are some ideas to get you started:
+### 🌸 En qué estoy trabajando recientemente
+*   Entrenando programación competitiva en C++ (ICPC) con enfoque en estructuras de datos dinámicas.
+*   Explorando el mundo de DevSecOps y automatización de flujos de trabajo (CI/CD).
+*   Fortaleciendo mis bases en ciberseguridad (en proceso de certificación CCST).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌷 Herramientas y Tecnologías
+*   **Lenguajes:** C++, Java, JavaScript, Python, C.
+*   **DevOps & Entornos:** Git, Docker, GitHub Actions, Linux.
+*   **Otros:** Desarrollo Front-end básico.
+
+### 🌻 Cómo contactarme
+*   **LinkedIn:** [Alejandra Barajas Flores](https://www.linkedin.com/in/alebarajas)
